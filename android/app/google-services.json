@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "286375443073",
+    "project_id": "preorderbites",
+    "storage_bucket": "preorderbites.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286375443073:android:9afd1ac53c0943be306b80",
+        "android_client_info": {
+          "package_name": "com.example.preorder_bites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286375443073-i9o4gnud886u1fdtcu3amcb0gu7nspce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ27ECcUrNG-eTJuPy-Q4aCCHWOH4DNZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286375443073-i9o4gnud886u1fdtcu3amcb0gu7nspce.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286375443073-ptijhq5nbn3301tkk3nja8ij3oo80sk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.preorderBites"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
